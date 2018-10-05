@@ -1,0 +1,14 @@
+c:\users\ajanthan\source\repos\Challenge21.Entity\Challenge21.Entity\obj\Debug\Challenge21.Entity.csprojAssemblyReference.cache
+c:\users\ajanthan\source\repos\Challenge21.Entity\Challenge21.Entity\obj\Debug\Challenge21.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ajanthan\source\repos\Challenge21.Entity\Challenge21.Entity\bin\Debug\Challenge21.Entity.dll.config
+C:\Users\ajanthan\source\repos\Challenge21.Entity\Challenge21.Entity\bin\Debug\Challenge21.Entity.dll
+C:\Users\ajanthan\source\repos\Challenge21.Entity\Challenge21.Entity\bin\Debug\Challenge21.Entity.pdb
+C:\Users\ajanthan\source\repos\Challenge21.Entity\Challenge21.Entity\bin\Debug\EntityFramework.dll
+C:\Users\ajanthan\source\repos\Challenge21.Entity\Challenge21.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ajanthan\source\repos\Challenge21.Entity\Challenge21.Entity\bin\Debug\EntityFramework.xml
+C:\Users\ajanthan\source\repos\Challenge21.Entity\Challenge21.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ajanthan\source\repos\Challenge21.Entity\Challenge21.Entity\obj\Debug\Challenge21.Entity.csproj.CopyComplete
+C:\Users\ajanthan\source\repos\Challenge21.Entity\Challenge21.Entity\obj\Debug\Challenge21.Entity.dll
+C:\Users\ajanthan\source\repos\Challenge21.Entity\Challenge21.Entity\obj\Debug\Challenge21.Entity.pdb
+C:\Users\ajanthan\source\repos\Challenge21.Entity\Challenge21.Entity\obj\Debug\Challenge21.Entity.Migrations.InitialDBCreation.resources
+C:\Users\ajanthan\source\repos\Challenge21.Entity\Challenge21.Entity\obj\Debug\Challenge21.Entity.csproj.GenerateResource.cache
